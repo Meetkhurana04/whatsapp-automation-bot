@@ -1,6 +1,7 @@
 # WhatsApp Sender
 
 A Dockerized Flask service that automates WhatsApp Web using Selenium to send text messages (and optionally media, with extra work).
+Created by Meet 
 
 ## Features
 
